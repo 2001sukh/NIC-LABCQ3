@@ -3,3 +3,8 @@ My lab partners :-
 sukhdeep singh,
 Aran arora,
 Mitsuhiro Kadota
+How to improve code quality :- 
+- it is easy to understand. 
+- code should be well developed.
+- code should be testable.
+- Follows a consistent style.
