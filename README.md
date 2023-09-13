@@ -14,7 +14,7 @@
  ### Self evaluation: 4/4
 # Mitsuhiro Kadota Work
 ## What is Code Quality & why is it Important?
-### https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/
+### [Reference Link](https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/)
 
 - Increasing readability and ease of editing
 -  Making program sustainable
@@ -35,7 +35,7 @@
 - Well formatted:
   - White spacing
   - Format should be the same
-### [Link](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7#:~:text=The%20first%20principle%20of%20writing,as%20proper%20indentation%20and%20formatting.)
+### [Reference Link](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7#:~:text=The%20first%20principle%20of%20writing,as%20proper%20indentation%20and%20formatting.)
 
 ## Work level - 4
 
