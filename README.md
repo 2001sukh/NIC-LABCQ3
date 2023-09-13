@@ -1,7 +1,7 @@
 # NIC-LABCQ3
-My lab partners :- 
-- [ ] sukhdeep singh,
-- [ ] Aran arora,
+## My lab partners: 
+- [ ] sukhdeep S,
+- [ ] Aran Arora,
 - [ ] Mitsuhiro Kadota
 # Sukhdeep singh,
 ## How to improve code quality:
