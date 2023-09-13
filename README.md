@@ -15,11 +15,11 @@ My lab partners :-
 ## What is Code Quality & why is it Important?
 ### https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/
 
-- [ ] Increasing readability and ease of editing
-- [ ] Making program sustainable
-- [ ] Promotes easy transferability
-- [ ] Decreasing technical debt
-- [ ] Making software robust
+- Increasing readability and ease of editing
+-  Making program sustainable
+- romotes easy transferability
+- Decreasing technical debt
+- Making software robust
 
  Self evaluation: 3.5/4
 # Aran Arora
