@@ -1,4 +1,4 @@
-# NIC-LABCQ3
+# Code Quality
 ## My lab partners: 
 - [ ] sukhdeep Singh,
 - [ ] Aran Arora,
