@@ -1,6 +1,6 @@
 # Code Quality
 ## My lab partners: 
-- [ ] sukhdeep Singh,
+- [ ] Sukhdeep Singh,
 - [ ] Aran Arora,
 - [ ] Mitsuhiro Kadota
 # Sukhdeep Singh,
