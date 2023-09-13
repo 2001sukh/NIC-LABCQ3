@@ -9,3 +9,4 @@ Mitsuhiro Kadota
 - code should be testable.
 - Follows a consistent style.
 - it should be bug free 
+https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality 
