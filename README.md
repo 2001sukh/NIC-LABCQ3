@@ -6,7 +6,7 @@ My lab partners :-
       
 <h1>How to improve code quality :-</h>
 <h4>
-  - it is easy to understand. 
+- it is easy to understand. 
 - code should be well developed.
 - code should be testable.
 - Follows a consistent style.
