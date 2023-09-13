@@ -55,3 +55,8 @@
 - Well formatted:
   - White spacing
   - Format should be the same
+ ### [Reference Link](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7#:~:text=The%20first%20principle%20of%20writing,as%20proper%20indentation%20and%20formatting.)
+ ### [Reference Link](https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/)
+### [Reference Link](https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality)
+
+## Overall 4
