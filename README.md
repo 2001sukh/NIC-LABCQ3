@@ -30,7 +30,7 @@
 - Code should be divided into small parts, visible and apparent. 
 - Code operation should be understandable.
 - Try to write down robust code
-- Tested the code should be testable
+- The code should be testable
 - Code is well-documented through comments and commits.
 - Well formatted:
   - White spacing
@@ -51,7 +51,6 @@
 - Making software robust
 - Code should be divided into small parts, visible and apparent. 
 - Code operation should be understandable.
-- - Tested the code should be testable
 - Code is well-documented through comments and commits.
 - Well formatted:
   - White spacing
