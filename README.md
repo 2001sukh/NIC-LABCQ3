@@ -38,4 +38,21 @@
 ### [Reference Link](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7#:~:text=The%20first%20principle%20of%20writing,as%20proper%20indentation%20and%20formatting.)
 
 ## Work level - 4
-
+# Summary Checklist
+- it is easy to understand. 
+- code should be well developed.
+- code should be testable.
+- Follows a consistent style.
+- it should be bug free 
+- Increasing readability and ease of editing
+-  Making program sustainable
+- romotes easy transferability
+- Decreasing technical debt
+- Making software robust
+- Code should be divided into small parts, visible and apparent. 
+- Code operation should be understandable.
+- - Tested the code should be testable
+- Code is well-documented through comments and commits.
+- Well formatted:
+  - White spacing
+  - Format should be the same
