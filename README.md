@@ -4,7 +4,7 @@ My lab partners :-
 - [ ] Aran arora,
 - [ ] Mitsuhiro Kadota
       
-<h1>How to improve code quality :-</h>
+## How to improve code quality :-
 
 - it is easy to understand. 
 - code should be well developed.
