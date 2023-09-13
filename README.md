@@ -1,6 +1,6 @@
 # NIC-LABCQ3
 ## My lab partners: 
-- [ ] sukhdeep S,
+- [ ] sukhdeep Singh,
 - [ ] Aran Arora,
 - [ ] Mitsuhiro Kadota
 # Sukhdeep singh,
