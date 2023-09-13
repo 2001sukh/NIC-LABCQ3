@@ -10,7 +10,7 @@
 - code should be testable.
 - Follows a consistent style.
 - it should be bug free 
-- https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
+### [Reference Link](https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality)
  ### Self evaluation: 4/4
 # Mitsuhiro Kadota Work
 ## What is Code Quality & why is it Important?
