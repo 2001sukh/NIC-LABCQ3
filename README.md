@@ -3,7 +3,7 @@
 - [ ] sukhdeep Singh,
 - [ ] Aran Arora,
 - [ ] Mitsuhiro Kadota
-# Sukhdeep singh,
+# Sukhdeep Singh,
 ## How to improve code quality:
 - it is easy to understand. 
 - code should be well developed.
