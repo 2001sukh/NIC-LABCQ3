@@ -5,11 +5,11 @@
 - [ ] Mitsuhiro Kadota
 # Sukhdeep Singh,
 ## How to improve code quality:
-- it is easy to understand. 
-- code should be well developed.
-- code should be testable.
+- It is easy to understand. 
+- Code should be well developed.
+- Code should be testable.
 - Follows a consistent style.
-- it should be bug free 
+- It should be bug free 
 ### [Reference Link](https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality)
  ### Self evaluation: 3.5/4
 # Mitsuhiro Kadota Work
@@ -17,8 +17,8 @@
 ### [Reference Link](https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/)
 
 - Increasing readability and ease of editing
--  Making program sustainable
-- romotes easy transferability
+- Making program sustainable
+- Romotes easy transferability
 - Decreasing technical debt
 - Making software robust
 
@@ -39,14 +39,14 @@
 
 ## Work level - 3.5
 # Summary Checklist
-- it is easy to understand. 
-- code should be well developed.
-- code should be testable.
+- It is easy to understand. 
+- Code should be well developed.
+- Code should be testable.
 - Follows a consistent style.
-- it should be bug free 
+- It should be bug free 
 - Increasing readability and ease of editing
--  Making program sustainable
-- romotes easy transferability
+- Making program sustainable
+- Romotes easy transferability
 - Decreasing technical debt
 - Making software robust
 - Code should be divided into small parts, visible and apparent. 
